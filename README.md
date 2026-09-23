@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner.jpg" alt="Banner eSTEAMulab com placa de circuito impresso e logo digital" width="100%">
 
-  # eSTEAMulab Hardware Kit
+  # eSTEAMulab Hardware Kit 
 
   **O teu ponto de partida para prototipagem rápida e Internet das Coisas (IoT).**
 
