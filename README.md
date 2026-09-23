@@ -9,6 +9,7 @@
   [![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)](#)
   [![Laboratório](https://img.shields.io/badge/Laborat%C3%B3rio-eSTEAMulab-purple?style=flat-square)](#)
   [![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=flat-square)](#)
+  [![Code Style Linter](https://github.com/joaopaul0dev/eSTEAMulab-Hardware-Kit/actions/workflows/clang-format.yml/badge.svg)](https://github.com/joaopaul0dev/eSTEAMulab-Hardware-Kit/actions/workflows/clang-format.yml)
 </div>
 
 ---
