@@ -3,7 +3,7 @@
 
   # eSTEAMulab Hardware Kit 
 
-  **O teu ponto de partida para prototipagem rápida e Internet das Coisas (IoT).**
+  **O seu ponto de partida para prototipagem rápida e Internet das Coisas (IoT).**
 
   [![Plataforma](https://img.shields.io/badge/Plataforma-ESP32%20%7C%20Arduino-blue?style=flat-square&logo=arduino)](#)
   [![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B)](#)
@@ -18,31 +18,31 @@
 
 Bem-vindo ao repositório central de hardware do **eSTEAMulab**!
 
-Este guia foi criado para que **professores e estudantes** possam validar componentes eletrónicos em questão de minutos. Sabemos que na bancada do laboratório, o tempo é valioso. Por isso, organizamos códigos limpos, esquemas visuais e explicações diretas para que possas pular a etapa de "bater cabeça" com configurações e ir direto para a criação do teu projeto.
+Este guia foi criado para que **professores e estudantes** possam validar componentes eletrónicos em questão de minutos. Sabemos que na bancada do laboratório, o tempo é valioso. Por isso, organizamos códigos limpos, esquemas visuais e explicações diretas para você possa pular a etapa de "bater cabeça" com configurações e ir direto para a criação do teu projeto.
 
 ---
 
 ## Como Utilizar este Guia?
 
-A ideia aqui é **copiar, montar e testar**. Para cada sensor ou atuador disponível no laboratório, encontrarás uma pasta dedicada contendo tudo o que precisas:
+A ideia aqui é **copiar, montar e testar**. Para cada sensor ou atuador disponível no laboratório, terá uma pasta dedicada contendo tudo o que precisa:
 
-1. **Escolha o Componente:** Navega pelo nosso índice abaixo.
-2. **Entenda a Lógica:** Lê o ficheiro `README.md` dentro da pasta do componente para um resumo de como ele funciona.
-3. **Monte o Circuito:** Segue o esquema elétrico visual (pinagem fácil).
-4. **Rode o Código:** Abre o ficheiro `.ino` ou `.cpp`, faz o upload para a tua placa e vê a magia acontecer!
+1. **Escolha o Componente:** Navegue pelo nosso índice abaixo.
+2. **Entenda a Lógica:** Leia o ficheiro `README.md` dentro da pasta do componente para ter um resumo de como ele funciona.
+3. **Monte o Circuito:** Siga o esquema elétrico visual (pinagem fácil).
+4. **Rode o Código:** Abre o ficheiro `.ino` ou `.cpp`, faça o upload para a placa e veja a magia acontecer!
 
 ---
 
 ## Acervo de Componentes (Índice Rápido)
 
-Escolha o que queres testar hoje. Clica no link da pasta para aceder aos materiais.
+Escolha o que quer testar hoje. Clique no link da pasta para acessar os materiais.
 
 ### Básico (Interfaces de entrada/saída)
 
 | Componente | Função Principal | Massa de Teste | Acesso Rápido |
 | :--- | :--- | :---: | :--- |
-| **LEDs e Relés** | Acender luzes e acionar cargas | 🟢 | [📁 `/01-saidas-digitais`](./01-saidas-digitais/) |
-| **Push Buttons** | Detectar toques e cliques | 🟢 | [📁 `/02-entradas-digitais`](./02-entradas-digitais/) |
+| **LEDs e Relés** | Acender luzes e acionar cargas | 🟢 | [ `/01-saidas-digitais`](./01-saidas-digitais/) |
+| **Push Buttons** | Detectar toques e cliques | 🟢 | [ `/02-entradas-digitais`](./02-entradas-digitais/) |
 
 ### Intermediário (Sensores)
 
@@ -52,7 +52,7 @@ Escolha o que queres testar hoje. Clica no link da pasta para aceder aos materia
 | **DHT11 / DHT22** | Medir temperatura e umidade | 🟡 | [📁 `/05-sensor-dht`](./05-sensor-dht/) |
 | **Servo Motor** | Criar movimento controlado e mecânico | 🟡 | [📁 `/06-servomotor`](./06-servomotor/) |
 | **Display OLED** | Exibir textos e gráficos em uma tela | 🟡 | [📁 `/07-display-oled`](./07-display-oled/) |
-| **LDR** | Sentir a intensidade da luz ambiente | 🟢 | [📁 `/03-sensor-ldr`](./03-sensor-ldr/) |
+| **LDR** | Sentir a intensidade da luz ambiente | 🟡 | [📁 `/03-sensor-ldr`](./03-sensor-ldr/) |
 
 ### Avançado (Conectando à Rede)
 
@@ -65,7 +65,7 @@ Escolha o que queres testar hoje. Clica no link da pasta para aceder aos materia
 
 ## Como as pastas estão organizadas?
 
-Toda pasta de componente segue o mesmo padrão para facilitar a vida de quem está a ensinar e de quem está a aprender:
+Toda pasta de componente segue o mesmo padrão abaixo:
 
 ```text
 nome-do-componente/
