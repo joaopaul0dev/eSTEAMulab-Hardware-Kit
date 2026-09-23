@@ -41,8 +41,8 @@ Escolha o que quer testar hoje. Clique no link da pasta para acessar os materiai
 
 | Componente | Função Principal | Massa de Teste | Acesso Rápido |
 | :--- | :--- | :---: | :--- |
-| **LEDs e Relés** | Acender luzes e acionar cargas | 🟢 | [ `/01-saidas-digitais`](./01-saidas-digitais/) |
-| **Push Buttons** | Detectar toques e cliques | 🟢 | [ `/02-entradas-digitais`](./02-entradas-digitais/) |
+| **LEDs e Relés** | Acender luzes e acionar cargas | 🟢 | [📁 `/01-saidas-digitais`](./01-saidas-digitais/) |
+| **Push Buttons** | Detectar toques e cliques | 🟢 | [📁 `/02-entradas-digitais`](./02-entradas-digitais/) |
 
 ### Intermediário (Sensores)
 
